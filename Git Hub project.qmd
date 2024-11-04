@@ -15,7 +15,6 @@ use_git_config(user.name = "GodnessKB", user.email = "gbiney@umass.edu")
 usethis::create_github_token()
 ```
 
-```{r}3}
-
+```{r}
 gitcreds::gitcreds_set() 
 ```
