@@ -1,0 +1,17 @@
+---
+title: "index"
+author: "Godness Biney"
+date: "2024-11-03"
+output: html_document
+---
+
+3rd attempt at this new index page
+
+
+```{r}
+
+knitr::include_graphics("T2D Genetics.jpg")
+
+```
+
+
